@@ -1,7 +1,7 @@
 # PrepSaathi-Interview_Agent
-An Interview Trainer Agent developed and deployed on IBM CLoud using WatsonX.ai
+An Interview Trainer Agent developed and deployed on IBM CLoud using WatsonX.ai     
 
-Technologies Used are:-
+Technologies Used are:-    
  1)IBM Cloud Lite Services   
  2)Retrieval-Augmented Generation (RAG)   
  3)Natural Language Processing (NLP)   
